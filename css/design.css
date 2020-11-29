@@ -1,0 +1,124 @@
+body {
+  background-color: black;
+  color: gold;
+}
+#logo{
+	margin-left:48%;
+}
+#menu_tabla{
+	margin-left:25%;
+}
+.menu{
+	padding: 30px;
+}
+.limo_fajta{
+	background-color: gold;
+	color: black;
+	text-align: center;
+}
+.limo_kepek:hover {
+  transform: scale(1.2);
+}
+#limo_tabla{
+	margin-left:2%;
+}
+#video{
+	margin-left: 35%;
+}
+#also{
+	color: gold;
+}
+#miaz{
+	width: 20%;
+	height: 100%;
+	text-align: justify;
+	text-justify: inter-word;
+	padding: 10px;
+}
+#tortenet{
+	width: 20%;
+	height: 100%;
+	text-align: justify;
+	text-justify: inter-word;
+	padding: 10px;
+}
+#cegunkrol{
+	width: 20%;
+	height: 100%;
+	text-align: justify;
+	text-justify: inter-word;
+	padding: 10px;
+}
+#beadando{
+	color: red;
+	size: 24px;
+}
+#keszitette{
+	color: red;
+	text-align: center;
+}
+#kozep_kapcsolat{
+	margin-left: 45%;
+}
+.szolgaltatasok_tabla {
+  width: 400px;
+  text-align: justify;
+	text-justify: inter-word;
+}
+.szolgaltatas_neve {
+  width: 400px;
+  text-align: center;
+
+}
+.szolgaltatas_ara {
+  text-align: center;
+  background-color: gray;
+  width: 400px;
+}
+#szolgaltatasok_tabla{
+  margin-left: 40%;
+}
+h4{
+  text-align: center;
+}
+h5{
+  text-align: center;
+}
+h6{
+  text-align: center;
+}
+#tabla_arak{
+  margin-left: 35%;
+}
+.arak_oszlop
+{
+  background-color: gray;
+}
+#kozep_rolunk {
+  text-align: justify;
+	text-justify: inter-word;
+}
+a:link {
+  color: gold;
+}
+
+
+a:visited {
+  color: gold;
+}
+
+
+a:hover {
+  color: gold;
+}
+
+
+a:active {
+  color: gold;
+}
+#rolunk_kep{
+  margin-left: 20%;
+}
+#kozep_megrendeles{
+  margin-left: 47%;
+}
